@@ -6,7 +6,7 @@ const Header = () => {
             
             <Navbar bg="primary" data-bs-theme="dark">
                 <Container>
-                    <Navbar.Brand href="#home">E-commerce</Navbar.Brand>
+                    <Navbar.Brand href="/">E-commerce</Navbar.Brand>
                     <Nav className="me-auto navbar_wrap">
                         <Link to="add-product">Add Product</Link>
                         <Link to="update-product">Update Product</Link>
